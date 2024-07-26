@@ -4,7 +4,7 @@ body{
     text-shadow: 2px 2px 5px rgb(153, 137, 108);
     margin: 0;
     position: absolute;
-    top: 35%;
+    top: 25%;
     left: 35%;
     background-color: aliceblue;
 
@@ -12,3 +12,5 @@ body{
 .gradRed {
     background-image: linear-gradient(to right, red , yellow);
   }
+
+  
